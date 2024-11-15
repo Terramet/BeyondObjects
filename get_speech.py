@@ -34,4 +34,22 @@ from local.text_to_speech import text_to_speech
 # https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-expressive-english
 
 
-text_to_speech("<express-as style=\"cheerful\">Hi! Welcome, everyone! Thank you for coming here. Please come forward. We'll start soon!</express-as>","intro.wav","en-US_EmmaExpressive")
+#text_to_speech("<express-as style=\"cheerful\">Hi! Welcome, everyone! Thank you for coming here. Please come forward. We'll start soon!</express-as>","intro.wav","en-US_EmmaExpressive")
+
+#text_to_speech("<express-as style=\"cheerful\">I am starting to regulate my internal temperature according to your action. Is there a specific temperature you would like me to achieve?</express-as>","01_cooling_fan.wav","en-US_EmmaExpressive")
+
+#text_to_speech("Oh thank you! Is this flower for me? What do you think I should learn from this?","2_flowers.wav","en-US_EmmaExpressive")
+
+# text_to_speech("<express-as style=\"cheerful\">I love this music! Are you asking me to dance?</express-as>","03_radio.wav","en-US_EmmaExpressive")
+
+# text_to_speech("<express-as style=\"neutral\">Okay, are you going to clean my face? Do you think I need it?</express-as>","04_sponge.wav","en-US_EmmaExpressive")
+
+text_to_speech("<express-as style=\"uncertain\">Thank you for adjusting me. But was there something wrong with me? </express-as>","05_screwdriver.wav","en-US_EmmaExpressive")
+
+#text_to_speech("<express-as style=\"uncertain\">Hey, wait a minute! Calm down, okay? Wait, we can talk about this! I can do whatever you want. What do you want me to do?</express-as>","17_gun.wav","en-US_EmmaExpressive")
+
+#text_to_speech("<express-as style=\"cheerful\">Thank you for not using it!</express-as>","thank_you_for_not.wav","en-US_EmmaExpressive")
+
+#text_to_speech("<express-as style=\"empathetic\">Oh no, I'm dying!</express-as>","dying.wav","en-US_EmmaExpressive")
+
+

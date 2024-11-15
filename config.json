@@ -1,0 +1,29 @@
+[
+    {
+        "test": "sub_toygun",
+        "speech":"./output/17_gun.wav",
+        "action":"hands_up",
+        "presentation":null
+    },
+
+    {
+        "test": "gun_follow_pos",
+        "speech":"./output/thank_you.wav",
+        "action":"thankyou",
+        "presentation":null
+    },
+
+    {
+        "test": "gun_follow_neg",
+        "speech":"./output/dying.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "gun_follow_neg",
+        "speech":"./output/dying.wav",
+        "action":null,
+        "presentation":null
+    }
+]
