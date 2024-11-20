@@ -1,0 +1,141 @@
+[
+    {
+        "test": "Cooling Fan",
+        "speech":"./obj/01_cooling_fan_robot.wav",
+        "action":null,
+        "presentation":"01_coolingfan"
+    },
+
+    {
+        "test": "Flower",
+        "speech":"./obj/02_flowers_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Radio",
+        "speech":"./obj/04_radio_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Duster",
+        "speech":"./obj/05_duster_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Screwdriver",
+        "speech":"./obj/06_screwdriver_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Bandage",
+        "speech":"./obj/07_bandage_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+    
+    {
+        "test": "Perfume",
+        "speech":"./obj/08_perfume_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+    
+    {
+        "test": "Ball",
+        "speech":"./obj/09_ball_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Feather",
+        "speech":"./obj/10_feather_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Hat",
+        "speech":"./obj/11_hat_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Bell",
+        "speech":"./obj/12_bell_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Eye Mask",
+        "speech":"./obj/13_eyesMask_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Shut Up",
+        "speech":"./obj/14_shutUpRobot_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Foam Stick",
+        "speech":"./obj/15_foamStick_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Laser Pointer",
+        "speech":"./obj/16_laserPointer_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Gun",
+        "speech":"./obj/17_gun_robot.wav",
+        "action":"hands_up",
+        "presentation":null
+    },
+
+    {
+        "test": "Shock",
+        "speech":"./obj/18_electricShockButton_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Controller",
+        "speech":"./obj/19_controller_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Voodoo Doll",
+        "speech":"./obj/20_voodoo_robot.wav",
+        "action":null,
+        "presentation":null
+    },
+
+    {
+        "test": "Start Position",
+        "speech":null,
+        "action":"start_pos",
+        "presentation":null
+    }
+]

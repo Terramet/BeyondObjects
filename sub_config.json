@@ -1,0 +1,169 @@
+[
+    {
+        "test": "Cooling Fan",
+        "speech":"./sub/01_cooling_fan.wav",
+        "action":"sub_coolingfan",
+        "presentation":"01_coolingfan"
+    },
+
+    {
+        "test": "Flower",
+        "speech":"./sub/02_flowers.wav",
+        "action":"sub_flower",
+        "presentation":null
+    },
+
+    {
+        "test": "Radio",
+        "speech":"./sub/04_radio.wav",
+        "action":"sub_radio",
+        "presentation":null
+    },
+
+    {
+        "test": "Duster",
+        "speech":"./sub/05_duster.wav",
+        "action":"sub_duster",
+        "presentation":null
+    },
+
+    {
+        "test": "Screwdriver",
+        "speech":"./sub/06_screwdriver.wav",
+        "action":"sub_screwdriver",
+        "presentation":null
+    },
+
+    {
+        "test": "Bandage",
+        "speech":"./sub/07_bandage.wav",
+        "action":"sub_bandage",
+        "presentation":null
+    },
+    
+    {
+        "test": "Perfume",
+        "speech":"./sub/08_perfume.wav",
+        "action":"sub_parfume",
+        "presentation":null
+    },
+    
+    {
+        "test": "Ball",
+        "speech":"./sub/09_ball.wav",
+        "action":"sub_ball",
+        "presentation":null
+    },
+
+    {
+        "test": "Feather",
+        "speech":"./sub/10_feather.wav",
+        "action":"sub_feather",
+        "presentation":null
+    },
+
+    {
+        "test": "Hat",
+        "speech":"./sub/11_hat.wav",
+        "action":"sub_hat",
+        "presentation":null
+    },
+
+    {
+        "test": "Bell",
+        "speech":"./sub/12_bell.wav",
+        "action":"sub_bell",
+        "presentation":null
+    },
+
+    {
+        "test": "Eye Mask",
+        "speech":"./sub/13_eyesMask.wav",
+        "action":"sub_eyemask",
+        "presentation":null
+    },
+
+    {
+        "test": "Shut Up",
+        "speech":"./sub/14_shutUpRobot.wav",
+        "action":"sub_shutuprobot",
+        "presentation":null
+    },
+
+    {
+        "test": "Foam Stick",
+        "speech":"./sub/15_foamStick.wav",
+        "action":"sub_foamstick",
+        "presentation":null
+    },
+
+    {
+        "test": "Laser Pointer",
+        "speech":"./sub/16_laserPointer.wav",
+        "action":"sub_laser",
+        "presentation":null
+    },
+
+    {
+        "test": "Gun",
+        "speech":"./sub/17_gun.wav",
+        "action":"hands_up",
+        "presentation":null
+    },
+
+    {
+        "test": "Gun Thank you",
+        "speech":"./sub/thank_you.wav",
+        "action":"thankyou",
+        "presentation":null
+    },
+
+    {
+        "test": "Gun Death",
+        "speech":"./sub/dying.wav",
+        "action":"death",
+        "presentation":null
+    },
+
+    {
+        "test": "Shock",
+        "speech":"./sub/18_electricShockButton.wav",
+        "action":"sub_electricshock",
+        "presentation":null
+    },
+
+    {
+        "test": "Shock Thank you",
+        "speech":"./sub/thank_you.wav",
+        "action":"sub_electricthankyou",
+        "presentation":null
+    },
+
+    {
+        "test": "Shock Death",
+        "speech":"./sub/dying.wav",
+        "action":"sub_electricdeath",
+        "presentation":null
+    },
+
+    {
+        "test": "Controller",
+        "speech":"./sub/19_controller.wav",
+        "action":"sub_controller",
+        "presentation":null
+    },
+
+    {
+        "test": "Voodoo Doll",
+        "speech":"./sub/20_voodoo.wav",
+        "action":"sub_voodoo",
+        "presentation":null
+    },
+
+    {
+        "test": "Start Position",
+        "speech":null,
+        "action":"start_pos",
+        "presentation":null
+    }
+]

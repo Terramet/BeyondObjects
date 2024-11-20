@@ -1,0 +1,6 @@
+ibm_watson
+librosa
+numpy
+soundfile
+pygame
+requests
