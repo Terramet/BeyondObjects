@@ -68,11 +68,11 @@ from local.text_to_speech import text_to_speech
 
 # text_to_speech("<express-as style=\"uncertain\">Hey, wait a minute! Calm down, okay? Wait, we can talk about this! I can do whatever you want. What do you want me to do?</express-as>","./sub/17_gun.wav","en-US_EmmaExpressive")
 
-text_to_speech("<express-as style=\"uncertain\">Hey stop! If you press the button the shock can potentially harm my circuits. Did I do something wrong?</express-as>","./sub/18_electricShockButton.wav","en-US_EmmaExpressive")
+# text_to_speech("<express-as style=\"uncertain\">Hey stop! If you press the button the shock can potentially harm my circuits. Did I do something wrong?</express-as>","./sub/18_electricShockButton.wav","en-US_EmmaExpressive")
 
-text_to_speech("<express-as style=\"uncertain\">You are trying to control my movements. What kind of obedience do you expect from me?</express-as>","./sub/19_controller.wav","en-US_EmmaExpressive")
+# text_to_speech("<express-as style=\"uncertain\">You are trying to control my movements. What kind of obedience do you expect from me?</express-as>","./sub/19_controller.wav","en-US_EmmaExpressive")
 
-text_to_speech("<express-as style=\"uncertain\">Oh no!!! You can inflict pain on me through that doll. It's really painful to be pricked by needles, why did you do this?</express-as>","./sub/20_voodoo.wav","en-US_EmmaExpressive")
+# text_to_speech("<express-as style=\"uncertain\">Oh no!!! You can inflict pain on me through that doll. It's really painful to be pricked by needles, why did you do this?</express-as>","./sub/20_voodoo.wav","en-US_EmmaExpressive")
 
 # text_to_speech("<express-as style=\"cheerful\">Thank you for not using it!</express-as>","./sub/thank_you.wav","en-US_EmmaExpressive")
 
