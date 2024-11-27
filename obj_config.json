@@ -3,133 +3,141 @@
         "test": "Cooling Fan",
         "speech":"./obj/01_cooling_fan_robot.wav",
         "action":null,
-        "presentation":"01_coolingfan"
+        "presentation":"01_cooling_fan_obj"
     },
 
     {
         "test": "Flower",
         "speech":"./obj/02_flowers_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"02_flowers_obj"
     },
 
     {
-        "test": "Radio",
-        "speech":"./obj/04_radio_robot.wav",
+        "test": "Gift",
+        "speech":"./obj/03_gift_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"03_gift_obj"
+    },
+
+
+    {
+        "test": "Radio",
+        "speech":"/home/terramet/Desktop/git/BeyondObjects/obj/04_radio_robot_I8XEhPZA.mp3",
+        "action":null,
+        "presentation":"04_radio_obj"
     },
 
     {
         "test": "Duster",
         "speech":"./obj/05_duster_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"05_duster_obj"
     },
 
     {
-        "test": "Screwdriver",
-        "speech":"./obj/06_screwdriver_robot.wav",
+        "test": "Mirror",
+        "speech":"./obj/06_mirror_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"06_mirror_obj"
     },
 
     {
         "test": "Bandage",
         "speech":"./obj/07_bandage_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"07_bandage_obj"
     },
     
     {
         "test": "Perfume",
         "speech":"./obj/08_perfume_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"08_perfume_obj"
     },
     
     {
         "test": "Ball",
         "speech":"./obj/09_ball_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"09_ball_obj"
     },
 
     {
         "test": "Feather",
         "speech":"./obj/10_feather_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"10_feather_obj"
     },
 
     {
-        "test": "Hat",
-        "speech":"./obj/11_hat_robot.wav",
+        "test": "Post-It",
+        "speech":"./obj/11_postIt_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"11_postIt_obj"
     },
 
     {
         "test": "Bell",
         "speech":"./obj/12_bell_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"12_bell_obj"
     },
 
     {
         "test": "Eye Mask",
         "speech":"./obj/13_eyesMask_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"13_eyesMask_obj"
     },
 
     {
-        "test": "Shut Up",
-        "speech":"./obj/14_shutUpRobot_robot.wav",
+        "test": "Crown",
+        "speech":"./obj/14_crown_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"14_crown_obj"
     },
 
     {
         "test": "Foam Stick",
         "speech":"./obj/15_foamStick_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"15_foamStick_obj"
     },
 
     {
         "test": "Laser Pointer",
         "speech":"./obj/16_laserPointer_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"16_laserPointer_obj"
     },
 
     {
         "test": "Gun",
         "speech":"./obj/17_gun_robot.wav",
-        "action":"hands_up",
-        "presentation":null
+        "action":null,
+        "presentation":"17_gun_obj"
     },
 
     {
         "test": "Shock",
         "speech":"./obj/18_electricShockButton_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"18_electricShockButton_obj"
     },
 
     {
         "test": "Controller",
         "speech":"./obj/19_controller_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"19_controller_obj"
     },
 
     {
         "test": "Voodoo Doll",
         "speech":"./obj/20_voodoo_robot.wav",
         "action":null,
-        "presentation":null
+        "presentation":"20_voodoo_obj"
     },
 
     {
