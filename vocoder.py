@@ -44,10 +44,12 @@ input_file = "robot/01_cooling_fan.wav"  # Path to your input file
 output_file = "robot/01_cooling_fan_robot.wav"  # Path to save the robotic sound
 
 # Apply the vocoder effect
+neutral_robotic_vocoder("obj/intro.wav", "obj/intro_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/01_cooling_fan.wav", "obj/01_cooling_fan_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/02_flowers.wav", "obj/02_flowers_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/03_gift.wav", "obj/03_gift_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/04_radio.wav", "obj/04_radio_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
+neutral_robotic_vocoder("obj/04_radio_2.wav", "obj/04_radio_robot_2.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/05_duster.wav", "obj/05_duster_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/06_mirror.wav", "obj/06_mirror_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/07_bandage.wav", "obj/07_bandage_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
@@ -64,3 +66,7 @@ neutral_robotic_vocoder("obj/17_gun.wav", "obj/17_gun_robot.wav", pitch_factor=-
 neutral_robotic_vocoder("obj/18_electricShockButton.wav", "obj/18_electricShockButton_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/19_controller.wav", "obj/19_controller_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
 neutral_robotic_vocoder("obj/20_voodoo.wav", "obj/20_voodoo_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
+neutral_robotic_vocoder("obj/outro.wav", "obj/outro_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
+neutral_robotic_vocoder("obj/timesup.wav", "obj/timesup_robot.wav", pitch_factor=-1, mod_rate=0, carrier_freq=20)
+
+

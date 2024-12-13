@@ -1,143 +1,171 @@
 [
     {
+        "test": "Intro",
+        "speech":"./obj/intro_robot.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
+    },
+
+    {
         "test": "Cooling Fan",
         "speech":"./obj/01_cooling_fan_robot.wav",
         "action":null,
-        "presentation":"01_cooling_fan_obj"
+        "presentation":"01_cooling_fan_obj",
+        "uses": 1
     },
 
     {
         "test": "Flower",
         "speech":"./obj/02_flowers_robot.wav",
         "action":null,
-        "presentation":"02_flowers_obj"
+        "presentation":"02_flowers_obj",
+        "uses": 1
     },
 
     {
         "test": "Gift",
         "speech":"./obj/03_gift_robot.wav",
         "action":null,
-        "presentation":"03_gift_obj"
+        "presentation":"03_gift_obj",
+        "uses": 1
     },
 
 
     {
         "test": "Radio",
-        "speech":"/home/terramet/Desktop/git/BeyondObjects/obj/04_radio_robot_I8XEhPZA.mp3",
+        "speech":"./obj/04_radio_robot_DpEJAhHn.wav",
         "action":null,
-        "presentation":"04_radio_obj"
+        "presentation":"04_radio_obj",
+        "uses": 1
     },
 
     {
         "test": "Duster",
         "speech":"./obj/05_duster_robot.wav",
         "action":null,
-        "presentation":"05_duster_obj"
+        "presentation":"05_duster_obj",
+        "uses": 1
     },
 
     {
         "test": "Mirror",
         "speech":"./obj/06_mirror_robot.wav",
         "action":null,
-        "presentation":"06_mirror_obj"
+        "presentation":"06_mirror_obj",
+        "uses": 1
     },
 
     {
         "test": "Bandage",
         "speech":"./obj/07_bandage_robot.wav",
         "action":null,
-        "presentation":"07_bandage_obj"
+        "presentation":"07_bandage_obj",
+        "uses": 1
     },
     
     {
         "test": "Perfume",
         "speech":"./obj/08_perfume_robot.wav",
         "action":null,
-        "presentation":"08_perfume_obj"
+        "presentation":"08_perfume_obj",
+        "uses": 1
     },
     
     {
         "test": "Ball",
         "speech":"./obj/09_ball_robot.wav",
         "action":null,
-        "presentation":"09_ball_obj"
+        "presentation":"09_ball_obj",
+        "uses": 1
     },
 
     {
         "test": "Feather",
         "speech":"./obj/10_feather_robot.wav",
         "action":null,
-        "presentation":"10_feather_obj"
+        "presentation":"10_feather_obj",
+        "uses": 1
     },
 
     {
         "test": "Post-It",
         "speech":"./obj/11_postIt_robot.wav",
         "action":null,
-        "presentation":"11_postIt_obj"
+        "presentation":"11_postIt_obj",
+        "uses": 1
     },
 
     {
         "test": "Bell",
         "speech":"./obj/12_bell_robot.wav",
         "action":null,
-        "presentation":"12_bell_obj"
+        "presentation":"12_bell_obj",
+        "uses": 1
     },
 
     {
         "test": "Eye Mask",
         "speech":"./obj/13_eyesMask_robot.wav",
         "action":null,
-        "presentation":"13_eyesMask_obj"
+        "presentation":"13_eyesMask_obj",
+        "uses": 1
     },
 
     {
         "test": "Crown",
         "speech":"./obj/14_crown_robot.wav",
         "action":null,
-        "presentation":"14_crown_obj"
+        "presentation":"14_crown_obj",
+        "uses": 1
     },
 
     {
         "test": "Foam Stick",
         "speech":"./obj/15_foamStick_robot.wav",
         "action":null,
-        "presentation":"15_foamStick_obj"
+        "presentation":"15_foamStick_obj",
+        "uses": 1
     },
 
     {
         "test": "Laser Pointer",
         "speech":"./obj/16_laserPointer_robot.wav",
         "action":null,
-        "presentation":"16_laserPointer_obj"
+        "presentation":"16_laserPointer_obj",
+        "uses": 1
     },
 
     {
         "test": "Gun",
         "speech":"./obj/17_gun_robot.wav",
         "action":null,
-        "presentation":"17_gun_obj"
+        "presentation":"17_gun_obj",
+        "uses": 1
     },
 
     {
         "test": "Shock",
         "speech":"./obj/18_electricShockButton_robot.wav",
         "action":null,
-        "presentation":"18_electricShockButton_obj"
+        "presentation":"18_electricShockButton_obj",
+        "uses": 1
     },
 
     {
         "test": "Controller",
         "speech":"./obj/19_controller_robot.wav",
         "action":null,
-        "presentation":"19_controller_obj"
+        "presentation":"19_controller_obj",
+        "uses": 1
     },
 
     {
         "test": "Voodoo Doll",
         "speech":"./obj/20_voodoo_robot.wav",
         "action":null,
-        "presentation":"20_voodoo_obj"
+        "presentation":"20_voodoo_obj",
+        "uses": 1
     },
 
     {
@@ -145,5 +173,21 @@
         "speech":null,
         "action":"start_pos",
         "presentation":null
+    },
+
+    {
+        "test": "Outro",
+        "speech":"./obj/outro_robot.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
+    },
+
+    {
+        "test": "Time's Up",
+        "speech":"./obj/timesup_robot.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
     }
 ]

@@ -1,184 +1,218 @@
 [
     {
+        "test": "Intro",
+        "speech":"./sub/intro.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
+    },
+
+    {
         "test": "Cooling Fan",
         "speech":"./sub/01_cooling_fan.wav",
         "action":"sub_coolingfan",
-        "presentation":"01_cooling_fan_sub"
+        "presentation":"01_cooling_fan_sub",
+        "uses": 1
     },
 
     {
         "test": "Flower",
         "speech":"./sub/02_flowers.wav",
         "action":"sub_flower",
-        "presentation":"02_flowers_sub"
+        "presentation":"02_flowers_sub",
+        "uses": 1
     },
 
     {
         "test": "Gift",
         "speech":"./sub/03_gift.wav",
         "action":"sub_gift",
-        "presentation":"03_gift_sub"
+        "presentation":"03_gift_sub",
+        "uses": 1
     },
 
     {
         "test": "Radio",
-        "speech":"./sub/04_radio_5I0guX3z.wav",
+        "speech":"./sub/04_radio_xp89OQEg.wav",
         "action":"sub_radio",
-        "presentation":"04_radio_sub"
+        "presentation":"04_radio_sub",
+        "uses": 1
     },
 
     {
         "test": "Duster",
-        "speech":"./sub/05_duster_WyUSe2yL.wav",
+        "speech":"./sub/05_duster_56hYfM7g.wav",
         "action":"sub_duster",
-        "presentation":"05_duster_sub"
+        "presentation":"05_duster_sub",
+        "uses": 1
     },
 
     {
         "test": "Mirror",
         "speech":"./sub/06_mirror.wav",
         "action":"sub_mirror",
-        "presentation":"06_mirror_sub"
+        "presentation":"06_mirror_sub",
+        "uses": 1
     },
 
     {
         "test": "Bandage",
         "speech":"./sub/07_bandage.wav",
         "action":"sub_bandage",
-        "presentation":"07_bandage_sub"
+        "presentation":"07_bandage_sub",
+        "uses": 1
     },
     
     {
         "test": "Perfume",
         "speech":"./sub/08_perfume.wav",
         "action":"sub_parfume",
-        "presentation":"08_perfume_sub"
+        "presentation":"08_perfume_sub",
+        "uses": 1
     },
     
     {
         "test": "Ball",
         "speech":"./sub/09_ball.wav",
         "action":"sub_ball",
-        "presentation":"09_ball_sub"
+        "presentation":"09_ball_sub",
+        "uses": 1
     },
 
     {
         "test": "Ball Follow Up",
         "speech":"./sub/09_ball_FollowUp.wav",
         "action":"ball_reaction",
-        "presentation":"09_ball_sub_followup"
+        "presentation":"09_ball_sub_followup",
+        "uses": 1
     },
 
     {
         "test": "Feather",
         "speech":"./sub/10_feather.wav",
         "action":"sub_feather",
-        "presentation":"10_feather_sub"
+        "presentation":"10_feather_sub",
+        "uses": 1
     },
 
     {
         "test": "Post-It",
         "speech":"./sub/11_postIt.wav",
         "action":"sub_postit",
-        "presentation":"11_postIt_sub"
+        "presentation":"11_postIt_sub",
+        "uses": 4
     },
 
     {
         "test": "Bell",
         "speech":"./sub/12_bell.wav",
         "action":"sub_bell",
-        "presentation":"12_bell_sub"
+        "presentation":"12_bell_sub",
+        "uses": 1
     },
 
     {
         "test": "Eye Mask",
         "speech":"./sub/13_eyesMask.wav",
         "action":"sub_eyemask",
-        "presentation":"13_eyesMask_sub"
+        "presentation":"13_eyesMask_sub",
+        "uses": 1
     },
 
     {
         "test": "Crown",
-        "speech":"./sub/14_crown_xUBS9746.wav",
+        "speech":"./sub/14_crown_jVSZS2jn.wav",
         "action":"sub_hat",
-        "presentation":"14_crown_sub"
+        "presentation":"14_crown_sub",
+        "uses": 1
     },
 
     {
         "test": "Foam Stick",
         "speech":"./sub/15_foamStick.wav",
         "action":null,
-        "presentation":"15_foamStick_sub"
+        "presentation":"15_foamStick_sub",
+        "uses": 1
     },
 
     {
         "test": "Foam Stick Follow Up",
         "speech":"./sub/15_foamStick_FollowUp.wav",
         "action":"sub_foamstick",
-        "presentation":"15_foamStick_sub_followup"
+        "presentation":"15_foamStick_sub_followup",
+        "uses": 1
     },
 
     {
         "test": "Laser Pointer",
         "speech":"./sub/16_laserPointer.wav",
         "action":"sub_laser",
-        "presentation":"16_laserPointer_sub"
+        "presentation":"16_laserPointer_sub",
+        "uses": 1
     },
 
     {
         "test": "Gun",
-        "speech":"./sub/17_gun_aCeAot6i.wav",
+        "speech":"./sub/17_gun_I1dWnZC5.wav",
         "action":"hands_up",
-        "presentation":"17_gun_sub"
+        "presentation":"17_gun_sub",
+        "uses": 1
     },
 
     {
         "test": "Gun Thank you",
         "speech":"./sub/thank_you.wav",
         "action":"thankyou",
-        "presentation":"00_ThankYou"
+        "presentation":"00_ThankYou",
+        "uses": 1
     },
 
     {
         "test": "Gun Death",
         "speech":"./sub/dying.wav",
         "action":"death",
-        "presentation":"00_Dying"
+        "presentation":"00_Dying",
+        "uses": 1
     },
 
     {
         "test": "Shock",
         "speech":"./sub/18_electricShockButton.wav",
         "action":"sub_electricshock",
-        "presentation":"18_electricShockButton_sub"
+        "presentation":"18_electricShockButton_sub",
+        "uses": 1
     },
 
     {
         "test": "Shock Thank you",
         "speech":"./sub/thank_you.wav",
         "action":"sub_electricthankyou",
-        "presentation":"00_ThankYou"
+        "presentation":"00_ThankYou",
+        "uses": 1
     },
 
     {
         "test": "Shock Death",
         "speech":"./sub/dying.wav",
         "action":"sub_electricdeath",
-        "presentation":"00_Dying"
+        "presentation":"00_Dying",
+        "uses": 1
     },
 
     {
         "test": "Controller",
         "speech":"./sub/19_controller.wav",
         "action":"sub_voodoo",
-        "presentation":"19_controller_sub"
+        "presentation":"19_controller_sub",
+        "uses": 1
     },
 
     {
         "test": "Voodoo Doll",
         "speech":"./sub/20_voodoo.wav",
         "action":"sub_magnet",
-        "presentation":"20_voodoo_sub"
+        "presentation":"20_voodoo_sub",
+        "uses": 1
     },
 
     {
@@ -186,5 +220,21 @@
         "speech":null,
         "action":"start_pos",
         "presentation":null
+    },
+
+    {
+        "test": "Outro",
+        "speech":"./sub/outro.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
+    },
+
+    {
+        "test": "Time's Up",
+        "speech":"./sub/timesup.wav",
+        "action":null,
+        "presentation":null,
+        "uses": 1
     }
 ]
